@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m a capable software engineer with a lot of practical experience in iOS development. People appreciate my experience with and understanding of different app architectures, tools and typical dependencies. I value the practice of constant and overarching communication and teamwork. I’m trying to keep the feedback loop as short as possible.
+
+
+
 <!--
 **arietis/arietis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
